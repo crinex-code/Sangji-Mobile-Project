@@ -1,0 +1,2 @@
+rootProject.name='Sangji-Mobile-Project'
+include ':app'
